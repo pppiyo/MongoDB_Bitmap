@@ -1,3 +1,6 @@
+# Before everything
+[Project Proposal](https://docs.google.com/document/d/1Y4Z0uoXtBMYnMPCDE2V_ZwDiHTk2pHa6qmUtAeexxNg/edit)
+
 # ![Logo](docs/leaf.svg) MongoDB README
 
 Welcome to MongoDB!
